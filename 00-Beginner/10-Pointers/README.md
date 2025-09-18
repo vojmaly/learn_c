@@ -28,8 +28,6 @@ int *ptr = &x;  // ptr holds the address of x
 
 # 📌 Detailed Pointer Declaration in C
 
----
-
 ## 🔹 Basic Pointer Declaration
 
 The most common syntax for declaring a pointer is:
