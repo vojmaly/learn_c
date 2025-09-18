@@ -19,7 +19,7 @@ This guide walks you through installing a C compiler, choosing an IDE or editor,
 
 #### Option 2: Microsoft Visual Studio (MSVC)
 1. Download Visual Studio from [https://visualstudio.microsoft.com/](https://visualstudio.microsoft.com/)
-2. During installation, select **"Desktop development with C++"**
+2. During installation, select **"Desktop development with C/C++"**
 3. Use the built-in compiler via the IDE or Developer Command Prompt
 
 ---
@@ -80,11 +80,11 @@ This guide walks you through installing a C compiler, choosing an IDE or editor,
 |----------------|---------------|-----------------------------------|
 | VS Code         | Cross-platform| Extensions for C/C++, debugging   |
 | Sublime Text    | Cross-platform| Fast, customizable                |
-| Vim/Emacs       | Cross-platform| Terminal-based, powerful          |
+| Nano/Emacs       | Cross-platform| Terminal-based, powerful          |
 
 ---
 
-## ⚙️ Step 3: Configure Your Environment
+## ⚙️  Step 3: Configure Your Environment
 
 ### VS Code Setup
 1. Install [C/C++ extension by Microsoft](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools)
