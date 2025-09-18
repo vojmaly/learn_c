@@ -1,43 +1,44 @@
-#Core Structure of a C Program
-test
-    -Documentation Section
+# Core Structure of a C Program
+    - Documentation Section
         Optional comments describing the program’s purpose.
         Helps others (or future you) understand the code.
 
-    -Preprocessor Directives
+    - Preprocessor Directives
         Start with #include to load standard libraries like:
             <stdio.h> for input/output
             <stdlib.h> for memory management
         May also include macros via #define.
 
-    -Global Declarations
+    - Global Declarations
         Variables or functions declared outside main() that can be accessed anywhere.
 
-    -main() Function
+    - main() Function
         The entry point of every C program.
 
-        Syntax: int main() { 
-                    /* code */ 
-                    return 0; 
-                }
-
+        Syntax:
+            ''' 
+            int main() { 
+                /* code */ 
+                return 0; 
+            }
+            '''
         Contains variable declarations, logic, and function calls.
 
-    -Variable Declarations
+    - Variable Declarations
         Inside main() or other functions.
         Must be declared before use.
 
-    -Statements and Expressions
+    - Statements and Expressions
         Actual logic: calculations, loops, conditionals, etc.
         Each statement ends with a semicolon ;.
 
-    -Return Statement
+    - Return Statement
         Ends the main() function.
         Typically return 0; to indicate successful execution for operating system.
 
 
 
-##Key Syntax Rules
+## Key Syntax Rules
         -Semicolons ; terminate statements.
         -Braces {} define blocks of code.
         -Comments use // for single-line or /* ... */ for multi-line.
