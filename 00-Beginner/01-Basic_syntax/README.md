@@ -22,7 +22,7 @@
           return 0; 
       }
       ```
-        - Contains variable declarations, logic, and function calls.
+    - Contains variable declarations, logic, and function calls.
 
 - Variable Declarations
     - Inside main() or other functions.
