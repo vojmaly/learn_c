@@ -32,7 +32,7 @@ to master C language. Zero is basic incrementing to advanced levels.
 4. [Recursion](01-Intermediate/04-Recursion)
 5. [Bitwise operations](01-Intermediate/05-Bitwise_operations)
 6. [Enumerations](01-Intermediate/06-Enumerations)
-7. [Command-line arguments](01-Intermediate/07-Command-line arguments)
+7. [Command-line arguments](01-Intermediate/07-Command-line_arguments)
 8. [Header files and modular programming](01-Intermediate/08-Header_files_and_modular_programming)
 9. [Error handling and debugging techniques](01-Intermediate/09-Error_handling_and_debugging_techniques)
 
