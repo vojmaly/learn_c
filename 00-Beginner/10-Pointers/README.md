@@ -350,11 +350,3 @@ Track and print the maximum value found.
 Declare an array of integers.  
 Use a pointer to set each element to zero.  
 Print the array to confirm all values are reset.
-
----
-
-### ✅ Exercise 11: Void Pointer Usage  
-**Task**:  
-Declare a void pointer and assign it the address of an integer variable.  
-Use typecasting to access and print the value.  
-Demonstrate how void pointers can point to different data types.
