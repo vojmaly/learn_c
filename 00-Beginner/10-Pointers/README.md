@@ -26,6 +26,71 @@ int *ptr = &x;  // ptr holds the address of x
 
 ---
 
+# 📌 Detailed Pointer Declaration in C
+
+---
+
+## 🔹 Basic Pointer Declaration
+
+The most common syntax for declaring a pointer is:
+
+```c
+int* ptr;
+```
+
+This declares `ptr` as a pointer to an integer. The `*` symbol indicates that `ptr` will hold the address of an `int`.
+
+You can also write:
+
+```c
+int *ptr;
+```
+
+Both styles are valid and equivalent. The placement of the `*` is a matter of style and readability.
+
+---
+
+## 🔹 Multiple Declarations in One Line
+
+Be cautious when declaring multiple variables in one line:
+
+```c
+int* a, b;
+```
+
+This declares:
+- `a` as a pointer to `int`
+- `b` as a regular `int`
+
+To declare both as pointers, you must use:
+
+```c
+int *a, *b;
+```
+
+---
+
+## 🔹 Best Practices
+
+- Prefer one declaration per line for clarity:
+  ```c
+  int *a;
+  int *b;
+  ```
+- Place the `*` next to the variable name to emphasize what is being declared as a pointer.
+- Always initialize pointers before use to avoid undefined behavior.
+
+---
+
+## 🧭 Summary
+
+- `int* ptr;` and `int *ptr;` are both valid pointer declarations.
+- The `*` binds to the variable name, not the type.
+- Be careful when declaring multiple variables in one line.
+- Clear and consistent pointer syntax improves code readability and safety.
+
+---
+
 ## 📍 Pointer Operators
 
 | Operator | Description                          |
