@@ -1,5 +1,5 @@
 # Core Structure of a C Program
-- Documentation Section
+- Documentation Section\
     - Optional comments describing the program’s purpose.
     - Helps others (or future you) understand the code.
 
