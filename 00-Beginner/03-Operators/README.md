@@ -45,7 +45,7 @@ Logical operators combine or invert boolean expressions.
 | Operator | Description     | Example Use |
 |----------|-----------------|-------------|
 | `&&`     | Logical AND      | `a && b`    |
-| `|||`     | Logical OR       | `a ||| b`    |
+| `|`     | Logical OR       | `a | b`    |
 | `!`      | Logical NOT      | `!a`        |
 
 - `&&` returns true only if both operands are true.
