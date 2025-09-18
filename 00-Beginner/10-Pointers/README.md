@@ -15,7 +15,7 @@ The most common syntax for declaring a pointer is:
 int* ptr;
 ```
 
-This declares `ptr` as a pointer to an integer. The `*` symbol indicates that `ptr` will hold the address of an `i>
+This declares `ptr` as a pointer to an integer. The `*` symbol indicates that `ptr` will hold the address of an `int`.
 
 You can also write:
 
