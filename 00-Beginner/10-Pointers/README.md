@@ -53,8 +53,6 @@ To declare both as pointers, you must use:
 int *a, *b;
 ```
 
----
-
 ## 🔹 Best Practices
 
 - Prefer one declaration per line for clarity:
@@ -64,8 +62,6 @@ int *a, *b;
   ```
 - Place the `*` next to the variable name to emphasize what is being declared as a pointer.
 - Always initialize pointers before use to avoid undefined behavior.
-
----
 
 ## 🧭 Summary
 
