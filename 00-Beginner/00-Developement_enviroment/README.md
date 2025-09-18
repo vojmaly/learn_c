@@ -1,4 +1,4 @@
-# 🛠️ Full Guide: Setting Up C Development Environment
+# 🛠️  Setting Up C Development Environment
 
 This guide walks you through installing a C compiler, choosing an IDE or editor, and compiling C code on **Windows**, **macOS**, and **Linux**.
 

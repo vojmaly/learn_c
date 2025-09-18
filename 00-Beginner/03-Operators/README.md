@@ -1,4 +1,4 @@
-# ⚙️ Comprehensive Guide to C Operators
+# ⚙️  C Operators
 
 Operators in C are symbols that tell the compiler to perform specific mathematical, logical, or bit-level operations. They are essential for manipulating data and controlling program flow. This guide covers six major categories of operators in C: **Arithmetic**, **Relational**, **Logical**, **Assignment**, **Increment/Decrement**, and **Bitwise**, followed by training exercises to reinforce your understanding.
 
