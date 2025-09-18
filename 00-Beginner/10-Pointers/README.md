@@ -9,10 +9,21 @@ Pointers are one of the most powerful and essential features in C. They allow di
 A pointer is a variable that stores the memory address of another variable.
 
 ### 🔹 Declaration Syntax
+The most common syntax for declaring a pointer is:
 
 ```c
-type *pointer_name;
+int* ptr;
 ```
+
+This declares `ptr` as a pointer to an integer. The `*` symbol indicates that `ptr` will hold the address of an `i>
+
+You can also write:
+
+```c
+int *ptr;
+```
+
+Both styles are valid and equivalent. The placement of the `*` is a matter of style and readability.
 
 ### 🔹 Example
 
@@ -23,30 +34,6 @@ int *ptr = &x;  // ptr holds the address of x
 
 - `&x` gives the address of variable `x`.
 - `*ptr` accesses the value stored at that address.
-
----
-
-# 📌 Detailed Pointer Declaration in C
-
-## 🔹 Basic Pointer Declaration
-
-The most common syntax for declaring a pointer is:
-
-```c
-int* ptr;
-```
-
-This declares `ptr` as a pointer to an integer. The `*` symbol indicates that `ptr` will hold the address of an `int`.
-
-You can also write:
-
-```c
-int *ptr;
-```
-
-Both styles are valid and equivalent. The placement of the `*` is a matter of style and readability.
-
----
 
 ## 🔹 Multiple Declarations in One Line
 
