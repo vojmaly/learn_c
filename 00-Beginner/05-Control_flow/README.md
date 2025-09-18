@@ -138,6 +138,7 @@ int main() {
 }
 ```
 
+> [!WARNING]
 > 🔹 `break` prevents fall-through to the next case. Without it, all subsequent cases will execute.
 
 ---
@@ -200,6 +201,4 @@ int main() {
 - `if-else if-else` handles multiple conditions in sequence.
 - `switch` is ideal for multi-way branching based on discrete values.
 - Mastering control flow is essential for building interactive and responsive programs.
-
----
 

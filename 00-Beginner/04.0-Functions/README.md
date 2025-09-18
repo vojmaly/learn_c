@@ -173,5 +173,3 @@ int factorial(int n) {
 - Parameters allow functions to work with different inputs.
 - Recursion enables elegant solutions for repetitive tasks.
 
----
-

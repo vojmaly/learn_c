@@ -68,7 +68,8 @@ int main() {
 }
 ```
 
-> Note: Always use the address-of operator `&` with `scanf()` except for strings.
+> [!NOTE]
+> Always use the address-of operator `&` with `scanf()` except for strings.
 
 ---
 
@@ -183,6 +184,4 @@ int main() {
 - Format specifiers control how data is read and displayed.
 - Use `getchar()`, `putchar()`, `fgets()`, and `fputs()` for more control over character and string I/O.
 - Always validate input and handle edge cases to build robust programs.
-
----
 

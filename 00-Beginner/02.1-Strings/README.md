@@ -39,8 +39,8 @@ int main() {
     return 0;
 }
 ```
-
-⚠️ `scanf()` with `%s` stops reading at the first whitespace. For full lines, use `fgets()`.
+> [!WARNING]
+> ⚠️ `scanf()` with `%s` stops reading at the first whitespace. For full lines, use `fgets()`.
 
 ### 🔹 Using `fgets()` and `puts()`
 
@@ -160,4 +160,3 @@ int main() {
 - Always manage memory carefully to avoid buffer overflows.
 - Practice reading, writing, and manipulating strings to build strong fundamentals.
 
----
