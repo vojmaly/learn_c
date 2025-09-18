@@ -1,4 +1,4 @@
-# 🧩 Functions in C: Full Explanation with Code Examples and Exercises
+# 🧩 Functions in C
 
 Functions in C are blocks of code designed to perform a specific task. They help organize code, improve readability, and promote reusability. This guide explains how functions work in C, how to define and use them, and includes code examples followed by training exercises to help you practice.
 
