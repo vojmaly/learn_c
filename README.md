@@ -11,7 +11,7 @@ to master C language. 0 is basic incremeting is more advanced.
     - [GNU C Manual](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html)
     - [C Language Reference](https://en.cppreference.com/w/c/language.html)
 
-# 🟢 Beginner Level
+# 🟢 [Beginner Level](00-Beginner)
 0. Setting up the development environment (compiler, IDE)
 1. Basic syntax and structure of a C program
 2. Data types and variables
