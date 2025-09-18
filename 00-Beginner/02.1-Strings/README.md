@@ -40,7 +40,7 @@ int main() {
 }
 ```
 
-> ⚠️ `scanf()` with `%s` stops reading at the first whitespace. For full lines, use `fgets()`.
+⚠️ `scanf()` with `%s` stops reading at the first whitespace. For full lines, use `fgets()`.
 
 ### 🔹 Using `fgets()` and `puts()`
 
@@ -101,7 +101,7 @@ int main() {
 
 ---
 
-## 🧑‍💻 Training Exercises (No Code Examples)
+## 🧑‍💻 Training Exercises
 
 ### ✅ Exercise 1: Declare and Print a String
 **Task**: Declare a string and initialize it with your name. Use `printf()` to display it.
