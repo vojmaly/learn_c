@@ -121,7 +121,7 @@ while (1) {
 
 ---
 
-## 🧑‍💻 Training Exercises (
+## 🧑‍💻 Training Exercisess
 
 ### ✅ Exercise 1: Print Numbers with `for` Loop
 **Task**: Use a `for` loop to print numbers from 1 to 10.
