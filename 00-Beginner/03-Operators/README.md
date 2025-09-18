@@ -92,7 +92,7 @@ Bitwise operators operate on individual bits of integer values.
 | Operator | Description     | Example Use |
 |----------|-----------------|-------------|
 | `&`      | Bitwise AND      | `a & b`     |
-| `|`      | Bitwise OR       | `a | b`     |
+| `\|`      | Bitwise OR       | `a \| b`     |
 | `^`      | Bitwise XOR      | `a ^ b`     |
 | `~`      | Bitwise NOT      | `~a`        |
 | `<<`     | Left shift       | `a << 1`    |
