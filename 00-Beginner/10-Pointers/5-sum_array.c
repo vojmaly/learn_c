@@ -13,12 +13,12 @@ int arr[] = {1, 2, 3, 4, 5, 6};
 int* ptr_arr;
 
 
-int sum(int* input) {
+int sum(int input) {
     int ret_val = 0;
-    int arr_lenght = sizeof(input) / input[0];
+    int arr_lenght = sizeof(input) / *(input);
     for (int i = 0; i < arr_lenght; i++) {
      // ret_val = ret_val + input[i] same as under
-        ret_val += input[i];
+        ret_val += *(input + i);
     }
     return ret_val;
 }
