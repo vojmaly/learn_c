@@ -20,8 +20,8 @@ Data types define the kind of data a variable can store. In C, every variable mu
 
 This table summarizes the most commonly used data types in C, including their typical size, value range, and format specifiers used for input/output operations.
 
-> [NOTE!]
-> ⚠️  Sizes and ranges may vary slightly depending on system architecture and compiler.
+> [WARNING!]
+> Sizes and ranges may vary slightly depending on system architecture and compiler.
 
 ---
 
