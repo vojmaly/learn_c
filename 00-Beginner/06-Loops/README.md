@@ -1,4 +1,4 @@
-# 🔁 Loops in C
+# 🔁 Loops in C: Full Explanation with Code Examples and Exercises
 
 Loops in C are used to execute a block of code repeatedly under certain conditions. They are essential for tasks like iterating over arrays, performing repetitive calculations, and automating control flow. This guide covers the three main types of loops in C—`for`, `while`, and `do-while`—with code examples and training exercises to help you practice.
 
@@ -116,12 +116,12 @@ while (1) {
     // infinite loop
 }
 ```
-
-> ⚠️ Use with caution and always include a termination condition.
+> [!WARNING]
+> Use with caution and always include a termination condition.
 
 ---
 
-## 🧑‍💻 Training Exercises (No Code Examples)
+## 🧑‍💻 Training Exercises (
 
 ### ✅ Exercise 1: Print Numbers with `for` Loop
 **Task**: Use a `for` loop to print numbers from 1 to 10.
@@ -182,4 +182,5 @@ while (1) {
 - Loops are foundational for automation, iteration, and dynamic control flow.
 
 ---
+
 
