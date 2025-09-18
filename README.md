@@ -53,7 +53,10 @@ to master C language. Zero is basic incrementing to advanced levels.
 13. C with assembly (inline assembly)
 14. C in system-level programming (OS, drivers)
 
-# 🎓 03-Final Projects
+# 🟣 03-Expert Level
+- [Additional Topics to Explore in C Programming]()
+
+# 🎓 04-Final Projects
 
 ### 🟢 00-Beginner Level
 - Nothing done yet
