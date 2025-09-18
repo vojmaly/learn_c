@@ -1,15 +1,17 @@
+# Learning C 
+
 This project is for learning C language. It contains structure of projects from basic to advance levels
 to master C language. 0 is basic incremeting is more advanced.
 
-Note: This project is now in progress because i work on it as i learn. 
+> [!IMPORTANT]
+> **This project is now in progress because i work on it as i learn.**
 
-You can find reference materials to learn at:
+- You can find reference materials to learn at:
+[W3School](https://www.w3schools.com/c/index.php)
+[GNU C Manual](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html)
+[C Language Reference](https://en.cppreference.com/w/c/language.html)
 
-https://www.w3schools.com/c/index.php
-https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html
-https://en.cppreference.com/w/c/language.html
-
-🟢 Beginner Level
+# 🟢 Beginner Level
 Setting up the development environment (compiler, IDE)
 Basic syntax and structure of a C program
 Data types and variables
@@ -22,7 +24,7 @@ Scope and lifetime of variables
 Arrays and strings
 Pointers basics
 
-🟡 Intermediate Level
+# 🟡 Intermediate Level
 Advanced pointer operations
 Dynamic memory allocation (malloc, calloc, free)
 Structures and unions
@@ -34,7 +36,7 @@ Command-line arguments
 Header files and modular programming
 Error handling and debugging techniques
 
-🔴 Advanced Level
+# 🔴 Advanced Level
 Linked lists (singly, doubly, circular)
 Stacks and queues
 Trees and binary search trees
