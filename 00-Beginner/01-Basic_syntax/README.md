@@ -39,29 +39,29 @@
 
 
 ## Key Syntax Rules
-        - Semicolons ; terminate statements.
-        - Braces {} define blocks of code.
-        - Comments use // for single-line or /* ... */ for multi-line.
-        - Identifiers must start with a letter or underscore, not a digit.
-            - Think of Identifiers as "Names You Create"
-                - Examples:
-                    - int score; → score is an identifier.
-                    - void calculateTotal() → calculateTotal is an identifier.
+- Semicolons ; terminate statements.
+- Braces {} define blocks of code.
+- Comments use // for single-line or /* ... */ for multi-line.
+- Identifiers must start with a letter or underscore, not a digit.
+    - Think of Identifiers as "Names You Create"
+        - Examples:
+            - int score; → score is an identifier.
+            - void calculateTotal() → calculateTotal is an identifier.
 
-                - Rules for Naming Identifiers:
-                    - To be valid, an identifier must follow these rules:
-                    - Must begin with a letter (A–Z, a–z) or an underscore _
-                    - Can include letters, digits (0–9), and underscores
-                    - Cannot start with a digit
-                    - Cannot be a C keyword (like int, return, while)
-                    - Case-sensitive: total, Total, and TOTAL are all different
+    - Rules for Naming Identifiers:
+        - To be valid, an identifier must follow these rules:
+        - Must begin with a letter (A–Z, a–z) or an underscore _
+        - Can include letters, digits (0–9), and underscores
+        - Cannot start with a digit
+        - Cannot be a C keyword (like int, return, while)
+        - Case-sensitive: total, Total, and TOTAL are all different
 
-                - Invalid Examples:
-                    - 1value → starts with a digit ❌
-                    - float → reserved keyword ❌
-                    - my-name → contains a hyphen ❌
+    - Invalid Examples:
+        - 1value → starts with a digit ❌
+        - float → reserved keyword ❌
+        - my-name → contains a hyphen ❌
 
-                - Naming Conventions (Optional but Helpful):
-                    - Use camelCase for variables and functions: totalAmount, getScore()
-                    - Use UPPER_SNAKE_CASE for constants: MAX_SIZE
-                    - Use PascalCase for structures: StudentRecord
+    - Naming Conventions (Optional but Helpful):
+        - Use camelCase for variables and functions: totalAmount, getScore()
+        - Use UPPER_SNAKE_CASE for constants: MAX_SIZE
+        - Use PascalCase for structures: StudentRecord
