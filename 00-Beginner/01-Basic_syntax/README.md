@@ -1,13 +1,13 @@
 # Core Structure of a C Program
 - Documentation Section
-Optional comments describing the program’s purpose.
-Helps others (or future you) understand the code.
+    - Optional comments describing the program’s purpose.
+    - Helps others (or future you) understand the code.
 
     - Preprocessor Directives
-        Start with #include to load standard libraries like:
-            <stdio.h> for input/output
-            <stdlib.h> for memory management
-        May also include macros via #define.
+        - Start with #include to load standard libraries like:
+            - <stdio.h> for input/output
+            - <stdlib.h> for memory management
+        - May also include macros via #define.
 
     - Global Declarations
         Variables or functions declared outside main() that can be accessed anywhere.
