@@ -16,16 +16,16 @@ Data types define the kind of data a variable can store. In C, every variable mu
 - `char`: Stores a single character
 - `void`: Represents no value (used for functions that return nothing)
 
-# 📘 Detailed Overview of C Data Types
+### 📘 Detailed Overview of C Data Types
 
 This table summarizes the most commonly used data types in C, including their typical size, value range, and format specifiers used for input/output operations.
 
->[NOTE!]
+> [NOTE!]
 > ⚠️  Sizes and ranges may vary slightly depending on system architecture and compiler.
 
 ---
 
-## 🔹 Integer Types
+### 🔹 Integer Types
 
 | Data Type               | Size (bytes) | Range                                      | Format Specifier |
 |------------------------|--------------|--------------------------------------------|------------------|
@@ -40,7 +40,7 @@ This table summarizes the most commonly used data types in C, including their ty
 
 ---
 
-## 🔹 Character Types
+### 🔹 Character Types
 
 | Data Type       | Size (bytes) | Range         | Format Specifier |
 |----------------|--------------|---------------|------------------|
@@ -49,7 +49,7 @@ This table summarizes the most commonly used data types in C, including their ty
 
 ---
 
-## 🔹 Floating Point Types
+### 🔹 Floating Point Types
 
 | Data Type       | Size (bytes) | Range                          | Format Specifier |
 |----------------|--------------|--------------------------------|------------------|
@@ -57,7 +57,7 @@ This table summarizes the most commonly used data types in C, including their ty
 | `double`       | 8            | ~1.7E−308 to 1.7E+308          | `%lf`            |
 | `long double`  | 16           | ~3.4E−4932 to 1.1E+4932        | `%Lf`            |
 
-## 🧭 Tips
+### 🧭 Tips
 
 - Use `sizeof(type)` to check actual size on your system.
 - Always match format specifiers with the correct data type to avoid runtime errors.
