@@ -1,7 +1,7 @@
 # Learning C 
 
 This project is for learning C language. It contains structure of projects from basic to advance levels
-to master C language. 0 is basic incremeting is more advanced.
+to master C language. Zero is basic incrementing to advanced levels.
 
 > [!IMPORTANT]
 > **This project is now in progress because i work on it as i learn.**
