@@ -1,4 +1,4 @@
-# 📌 Pointers in C: Full Explanation with Code Examples and Exercises
+# 📌 Pointers in C
 
 Pointers are one of the most powerful and essential features in C. They allow direct access to memory and enable dynamic memory management, efficient array handling, and complex data structures like linked lists. This guide provides a comprehensive explanation of pointers, complete with code examples and practical exercises to deepen your understanding.
 
