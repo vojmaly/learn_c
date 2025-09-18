@@ -33,7 +33,7 @@ int main() {
 | Specifier | Type           |
 |-----------|----------------|
 | `%d`      | Integer         |
-| `%f`      | Float           |
+| `%f`      | Float `%1f` number tell how much decimal places should be used          |
 | `%lf`     | Double          |
 | `%c`      | Character       |
 | `%s`      | String          |
