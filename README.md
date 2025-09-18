@@ -55,11 +55,11 @@ to master C language. 0 is basic incremeting is more advanced.
 
 # 🎓 03-Final Projects
 
-## 🟢 00-Beginner Level
+### 🟢 00-Beginner Level
 - Todo
 
-## 🟡 01-Intermediate Level
+### 🟡 01-Intermediate Level
 - [Clasic Snake - Game]()
 
-## 🔴 02-Advanced Level
+### 🔴 02-Advanced Level
 - Todo
