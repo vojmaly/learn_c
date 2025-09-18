@@ -11,20 +11,20 @@ to master C language. 0 is basic incremeting is more advanced.
     - [GNU C Manual](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html)
     - [C Language Reference](https://en.cppreference.com/w/c/language.html)
 
-# 🟢 [Beginner Level](00-Beginner)
-0. Setting up the development environment (compiler, IDE)
-1. Basic syntax and structure of a C program
-2. Data types and variables
-3. Operators (arithmetic, relational, logical)
-4. Input and output functions
-5. Control flow: if, else, switch
-6. Loops: for, while, do-while
-7. Functions and function prototypes
-8. Scope and lifetime of variables
-9. Arrays and strings
-10. Pointers basics
+# 🟢 00-Beginner Level
+0. [Setting up the development environment (compiler, IDE)](00-Beginner/00-Developement_enviroment/)
+1. [Basic syntax and structure of a C program](00-Beginner/01-Basic_syntax)
+2. [Data types and variables](00-Beginner/02-Data_types_and_variables)
+3. [Operators (arithmetic, relational, logical)](00-Beginner/03-Operators)
+4. [Functions and function prototypes](00-Beginner/04-Functions)
+5. [Control flow: if, else, switch](00-Beginner/05-Control_flow)
+6. [Loops: for, while, do-while](00-Beginner/06-Loops)
+7. [Input and output functions](00-Beginner/07-Input_output_functions)
+8. [Scope and lifetime of variables](00-Beginner/08-Scope_of_variables)
+9. [Arrays and strings](00-Beginner/09-Arrays_Strings)
+10. [Pointers basics](00-Beginner/10-Pointers)
 
-# 🟡 Intermediate Level
+# 🟡 01-Intermediate Level
 0. Advanced pointer operations
 1. Dynamic memory allocation (malloc, calloc, free)
 2. Structures and unions
@@ -36,7 +36,7 @@ to master C language. 0 is basic incremeting is more advanced.
 8. Header files and modular programming
 9. Error handling and debugging techniques
 
-# 🔴 Advanced Level
+# 🔴 02-Advanced Level
 0. Linked lists (singly, doubly, circular)
 1. Stacks and queues
 2. Trees and binary search trees
@@ -52,3 +52,14 @@ to master C language. 0 is basic incremeting is more advanced.
 12. Makefiles and build automation
 13. C with assembly (inline assembly)
 14. C in system-level programming (OS, drivers)
+
+# 🎓 03-Final Projects
+
+## 🟢 00-Beginner Level
+- Todo
+
+## 🟡 01-Intermediate Level
+- [Clasic Snake - Game]()
+
+## 🔴 02-Advanced Level
+- Todo
