@@ -159,6 +159,74 @@ printf("%d\n", *(int *)ptr);
 
 ---
 
+## 🔹 Passing a Variable Using a Pointer
+
+When a variable is passed to a function using a pointer, the function receives the memory address of the variable. This allows the function to modify the original value.
+
+### 🔸 Syntax
+
+```c
+void modify(int *x) {
+    *x = 100;  // modifies the original variable
+}
+```
+
+### 🔸 Example
+
+```c
+#include <stdio.h>
+
+void update(int *value) {
+    *value += 10;
+}
+
+int main() {
+    int num = 50;
+    update(&num);  // pass address of num
+    printf("Updated value: %d\n", num);  // Output: 60
+    return 0;
+}
+```
+
+---
+
+## 🔹 Passing an Array Using a Pointer
+
+Arrays are naturally passed by reference in C, meaning the function receives a pointer to the first element. This allows the function to modify the array contents directly.
+
+### 🔸 Syntax
+
+```c
+void process(int *arr, int size) {
+    for (int i = 0; i < size; i++) {
+        arr[i] *= 2;
+    }
+}
+```
+
+### 🔸 Example
+
+```c
+#include <stdio.h>
+
+void doubleElements(int *arr, int size) {
+    for (int i = 0; i < size; i++) {
+        arr[i] *= 2;
+    }
+}
+
+int main() {
+    int data[3] = {1, 2, 3};
+    doubleElements(data, 3);  // pass array by reference
+    for (int i = 0; i < 3; i++) {
+        printf("%d ", data[i]);  // Output: 2 4 6
+    }
+    return 0;
+}
+```
+
+---
+
 ## 🧠 Function Pointers
 
 Pointers can be used to store addresses of functions and call them dynamically.
