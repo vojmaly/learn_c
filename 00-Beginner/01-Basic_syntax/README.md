@@ -1,7 +1,7 @@
 # Core Structure of a C Program
 - Documentation Section
-- Optional comments describing the program’s purpose.
-- Helps others (or future you) understand the code.
+    - Optional comments describing the program’s purpose.
+    - Helps others (or future you) understand the code.
 
 - Preprocessor Directives
     - Start with `#include` to load standard libraries like:
