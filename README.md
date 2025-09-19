@@ -23,10 +23,10 @@ C ya in the code! 😉
 > [!IMPORTANT]
 > **Not all exercise solutions are complete yet—I'm solving them as I learn, so this repo grows with me. Feel free to follow along or even contribute!**
 
-- You can find reference materials to learn at:
-    - [W3School](https://www.w3schools.com/c/index.php)
-    - [GNU C Manual](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html)
-    - [C Language Reference](https://en.cppreference.com/w/c/language.html)
+## 👨‍💻 You can find reference materials to learn at:
+[W3School](https://www.w3schools.com/c/index.php)  
+[GNU C Manual](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html)  
+[C Language Reference](https://en.cppreference.com/w/c/language.html)
 
 # 🟢 00-Beginner Level
 0. [Setting up the development environment (compiler, IDE)](00-Beginner/00-Developement_enviroment/)
@@ -103,7 +103,7 @@ Each level comes with fun, hands-on projects to help you apply what you've learn
 1. **📇 Contact Book 2.0**  
    Store names, numbers, and secrets. Search, edit, and save them to a file—like a digital diary with structs.
 
-2. [**🐍 Classic Snake Game**](03-Final_projects/01-Intermediate/snake_game)  
+2. 🐍 [**Classic Snake Game**](03-Final_projects/01-Intermediate/snake_game)  
    Navigate your snake through the terminal jungle. Eat, grow, and avoid crashing—pure retro fun powered by C logic.
 
 3. **📦 Dynamic Array Manager**  
