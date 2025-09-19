@@ -28,6 +28,8 @@ C ya in the code! 😉
 [GNU C Manual](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html)  
 [C Language Reference](https://en.cppreference.com/w/c/language.html)
 
+---
+
 # 🟢 00-Beginner Level
 0. [Setting up the development environment (compiler, IDE)](00-Beginner/00-Developement_enviroment/)
 1. [Basic syntax and structure of a C program](00-Beginner/01-Basic_syntax)
@@ -41,6 +43,8 @@ C ya in the code! 😉
 9. [Arrays and strings](00-Beginner/09-Arrays_Strings)
 10. [Pointers basics](00-Beginner/10-Pointers)
 
+---
+
 # 🟡 01-Intermediate Level
 0. [Advanced pointer operations](01-Intermediate/00-Advanced_pointer_operations)
 1. [Dynamic memory allocation (malloc, calloc, free)](01-Intermediate/01-Dynamic_memory_allocation)
@@ -52,6 +56,8 @@ C ya in the code! 😉
 7. [Command-line arguments](01-Intermediate/07-Command-line_arguments)
 8. [Header files and modular programming](01-Intermediate/08-Header_files_and_modular_programming)
 9. [Error handling and debugging techniques](01-Intermediate/09-Error_handling_and_debugging_techniques)
+
+---
 
 # 🔴 02-Advanced Level
 0. [Linked lists (singly, doubly, circular)](02-Advanced/00-Linked_lists)
@@ -70,8 +76,12 @@ C ya in the code! 😉
 13. [C with assembly (inline assembly)](02-Advanced/13-C_with_assembly)
 14. [C in system-level programming (OS, drivers)](02-Advanced/14-C_in_system-level_programming)
 
+---
+
 # 🟣 03-Expert Level
 - [Additional Topics to Explore in C Programming](03-Expert)
+
+---
 
 # 🎓 04-Final Projects by Level
 
