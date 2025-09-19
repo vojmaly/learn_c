@@ -103,7 +103,7 @@ Each level comes with fun, hands-on projects to help you apply what you've learn
 1. **📇 Contact Book 2.0**  
    Store names, numbers, and secrets. Search, edit, and save them to a file—like a digital diary with structs.
 
-2. 🐍 [**Classic Snake Game**](03-Final_projects/01-Intermediate/snake_game)  
+2. 🐍 [**Classic Snake Game**](04-Final_projects/01-Intermediate/snake_game)  
    Navigate your snake through the terminal jungle. Eat, grow, and avoid crashing—pure retro fun powered by C logic.
 
 3. **📦 Dynamic Array Manager**  
