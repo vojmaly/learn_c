@@ -22,9 +22,9 @@ C ya in the code! 😉
 
 > [!IMPORTANT]
 > **Not all exercise solutions are complete yet—I'm solving them as I learn, so this repo grows with me.**  
-> 🕵️‍♂️ Spot a bug, typo, or something funky in the repo?  
-> I’m learning as I build, so if you catch anything off, feel free to open an issue or drop a comment.  
-> Let’s debug this journey together—because even C code deserves a second chance 😉
+> 🕵️‍♂️  ** Spot a bug, typo, or something funky in the repo**?  
+> **I’m learning as I build, so if you catch anything off, feel free to open an issue or drop a comment.**  
+> **Let’s debug this journey together—because even C code deserves a second chance 😉**
 
 
 ## 👨‍💻 You can find reference materials to learn at:
