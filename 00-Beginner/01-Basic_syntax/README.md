@@ -4,7 +4,7 @@
 - Helps others (or future you) understand the code.
 
 - Preprocessor Directives
-    - Start with #include to load standard libraries like:
+    - Start with `#include` to load standard libraries like:
         - <stdio.h> for input/output
         - <stdlib.h> for memory management
     - May also include macros via #define.
