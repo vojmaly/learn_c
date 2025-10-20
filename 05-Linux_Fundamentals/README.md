@@ -1,4 +1,4 @@
-`pwd`		print current working directory  
+`pwd`	&emsp;	print current working directory  
 `less`		scroll trough file contents  
 `head`		view first 10 lines  
 `tail`		view last 10 lines  
