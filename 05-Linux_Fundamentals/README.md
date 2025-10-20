@@ -1,51 +1,51 @@
-`pwd`	&emsp;	print current working directory  
-`less`		scroll trough file contents  
-`head`		view first 10 lines  
-`tail`		view last 10 lines  
+`pwd`	&emsp;&emsp;&emsp;&emsp;	print current working directory  
+`less`	&emsp;&emsp;&emsp;&emsp;	scroll trough file contents  
+`head`	&emsp;&emsp;&emsp;&emsp;	view first 10 lines  
+`tail`	&emsp;&emsp;&emsp;&emsp;	view last 10 lines  
 
 
-`echo "text" > file`		write text to file at **first line  
-`echo "text" >> file`       write text to file at **append  
+`echo "text" > file`	&emsp;&emsp;&emsp;&emsp;	write text to file at **first line  
+`echo "text" >> file`   &emsp;&emsp;&emsp;&emsp;   write text to file at **append  
 
 
-`sort <file>`				sort file contents  
-`uniq <file>`				remove duplicate lines  
-`wc <file>`					count lines, words, characters  
-`cut -D'/' -f1 <file>`		extract fields from lines  
+`sort <file>`	&emsp;&emsp;&emsp;&emsp;			sort file contents  
+`uniq <file>`	&emsp;&emsp;&emsp;&emsp;			remove duplicate lines  
+`wc <file>`		&emsp;&emsp;&emsp;&emsp;			count lines, words, characters  
+`cut -D'/' -f1 <file>`	&emsp;&emsp;&emsp;&emsp;	extract fields from lines  
 
 
-`ps aux`					list of all proceses  
-`du -sh <dir>`				directory size  
-`df -h`						disk usage stats  
-`uname -a`					kernel and system info  
-`man -k <keyword>`			search in man "keyword"  
+`ps aux`			&emsp;&emsp;&emsp;&emsp;		list of all proceses  
+`du -sh <dir>`		&emsp;&emsp;&emsp;&emsp;		directory size  
+`df -h`				&emsp;&emsp;&emsp;&emsp;		disk usage stats  
+`uname -a`			&emsp;&emsp;&emsp;&emsp;		kernel and system info  
+`man -k <keyword>`	&emsp;&emsp;&emsp;&emsp;		search in man "keyword"  
 
 
-`CTRL + z`					minimize  
-`fg`						maximize minimized  
+`CTRL + z`	&emsp;&emsp;&emsp;&emsp;				minimize  
+`fg`		&emsp;&emsp;&emsp;&emsp;				maximize minimized  
 
 
-`CTRL + a`					move cursor at beginning of line  
-`CTRL + e`					move cursor at end of line  
-`CTRL + u`					delete everything before cursor  
-`CTRL + k`					delete everything after cursor  
-`CTRL + l`					clear line  
-`CTRL + r`					reverse search trough history  
+`CTRL + a`	&emsp;&emsp;&emsp;&emsp;				move cursor at beginning of line  
+`CTRL + e`	&emsp;&emsp;&emsp;&emsp;				move cursor at end of line  
+`CTRL + u`	&emsp;&emsp;&emsp;&emsp;				delete everything before cursor  
+`CTRL + k`	&emsp;&emsp;&emsp;&emsp;				delete everything after cursor  
+`CTRL + l`	&emsp;&emsp;&emsp;&emsp;				clear line  
+`CTRL + r`	&emsp;&emsp;&emsp;&emsp;				reverse search trough history  
 
 
-`!!`						repeat last command  
-`cd -`						go to previous used directory  
-`cd`						ho to $HOME directory  
-`!<n>`						do command from history with number <n>  
+`!!`		&emsp;&emsp;&emsp;&emsp;				repeat last command  
+`cd -`		&emsp;&emsp;&emsp;&emsp;				go to previous used directory  
+`cd`		&emsp;&emsp;&emsp;&emsp;				ho to $HOME directory  
+`!<n>`		&emsp;&emsp;&emsp;&emsp;				do command from history with number <n>  
 
 
-`git init`								initialize git  
-`git remote add <origin> http:\\..`	 	add repository  
-`git add .`								add all files in cwd and subfolders to git  
-`git commit -m "text"`					commit files with message  
-`git push -u <origin> <main>`			push to specified <origin> branch <main>  
+`git init`		&emsp;&emsp;&emsp;&emsp;						initialize git  
+`git remote add <origin> http:\\..`	&emsp;&emsp;&emsp;&emsp; 	add repository  
+`git add .`		&emsp;&emsp;&emsp;&emsp;						add all files in cwd and subfolders to git  
+`git commit -m "text"`	&emsp;&emsp;&emsp;&emsp;				commit files with message  
+`git push -u <origin> <main>`	&emsp;&emsp;&emsp;&emsp;		push to specified <origin> branch <main>  
 
 
 VIM 
-`set number / set nonumber`				line numbers ON/OFF 
-`set tabstop=4`							set tab to 4 spaces 
+`set number / set nonumber`	&emsp;&emsp;&emsp;&emsp;			line numbers ON/OFF 
+`set tabstop=4`				&emsp;&emsp;&emsp;&emsp;			set tab to 4 spaces 
