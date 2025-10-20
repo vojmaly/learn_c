@@ -31,6 +31,13 @@ Both styles are valid and equivalent. The placement of the `*` is a matter of st
 int x = 10;
 int *ptr = &x;  // ptr holds the address of x
 ```
+IS SAME AS:
+
+```c
+int x = 10;
+int *ptr;  // ptr holds the address of x
+ptr = &x; 
+```
 
 - `&x` gives the address of variable `x`.
 - `*ptr` accesses the value stored at that address.
@@ -200,6 +207,7 @@ Arrays are naturally passed by reference in C, meaning the function receives a p
 void process(int *arr, int size) {
     for (int i = 0; i < size; i++) {
         arr[i] *= 2;
+		//*(arr + i) *= 2; same but diferent syntax
     }
 }
 ```
