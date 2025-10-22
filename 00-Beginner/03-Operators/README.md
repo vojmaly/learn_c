@@ -103,7 +103,7 @@ Bitwise operators operate on individual bits of integer values.
 
 ---
 
-## 🧑‍💻 Training Exercises (No Code Examples)
+## 🧑‍💻 Training Exercises
 
 ### ✅ Exercise 1: Arithmetic Practice
 **Task**: Declare two integers and perform addition, subtraction, multiplication, division, and modulus. Print each result.
